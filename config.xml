@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.eventsmspu.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. eventsmspu.ru</name>
+    <name>ТЕСТ. Мероприятия МПГУ: ИФТИС</name>
 
     <description>
         Внимание! Идет тестирование!
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#00FFFF" />
+    <preference name="SplashScreenSpinnerColor" value="#FF00B6" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
